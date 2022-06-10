@@ -7,3 +7,6 @@ Yield losses occur as a result of weed interference with the crop's growth and d
 This explains why effective weed control is imperative. In order to do effective control the first critical requirement is correct weed identification.
 
 https://www.up.ac.za/sahri/article/1810372/important-weeds-in-maize
+
+**Kaggle Dataset-**
+https://www.kaggle.com/datasets/vbookshelf/v2-plant-seedlings-dataset
